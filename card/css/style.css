@@ -1,0 +1,28 @@
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: auto;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+}
+
+.card {
+  margin: 1em 0;
+  padding: 1em 0 2em 5em;
+  background: #fff;
+  box-shadow: 3px 1px 5px 0 rgba(0,0,0,0.3);
+  -webkit-box-shadow: 3px 1px 5px 0 rgba(0,0,0,0.3);
+  overflow: hidden;
+}
+.title {
+  line-height: 2;
+}
+.desc {
+  color: gray;
+}
